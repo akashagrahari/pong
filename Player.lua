@@ -1,3 +1,4 @@
+--
 Player = Class{}
 
 PLAYER_SPEED = 300

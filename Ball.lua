@@ -1,3 +1,4 @@
+--
 Ball = Class{}
 
 BALL_RADIUS = 10
